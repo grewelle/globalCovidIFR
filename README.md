@@ -1,5 +1,5 @@
 # globalCovidIFR
-Software to calculate infection fatality rate for COVID-19 using data for cases, tests, and deaths. Associated with Grewelle et al. 2020 "Estimating the Global Infection Fatality Rate of COVID-19".
+Software to calculate infection fatality rate for COVID-19 using data for cases, tests, and deaths. Associated with Grewelle et al. 2024 "Estimating the infection fatality rate of emerging diseases using a regression approach applied to global COVID-19 cases".
 
 Primary code use requires a csv file.  Template data showing worldometer.org COVID-19 data at April 21, 2020 allows for simple editing.  4 columns can be edited as follows:
 
